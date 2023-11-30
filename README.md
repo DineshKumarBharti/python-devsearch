@@ -47,6 +47,4 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 # Profile Page
 <img src="./resources/images/Devsearch Profile.jpg">  
 
-# User Inbox
-<img src="./resources/images/Devsearch Inbox.jpg">  
 
